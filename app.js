@@ -1,3 +1,3 @@
-let a = 10;
+let a = 15;
 
-console.log(`${a} is number ten`);
+console.log(`${a} is number Fifteen`);
